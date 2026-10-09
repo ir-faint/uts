@@ -12,6 +12,9 @@ server
 .env
 !.env.example
 
+# Log files directory
+logs/
+
 # IDE & Editor files
 .idea/
 .vscode/
@@ -21,3 +24,6 @@ server
 # OS files
 .DS_Store
 Thumbs.db
+
+# lecturer modules
+lecturer-modules/
